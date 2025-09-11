@@ -5,13 +5,15 @@
 - Telegram @tatsianahl
 - Discord @tthl_02566
 
----
+*********
+
 #### Summary:
 
 Returning to work as a frontend developer after a break due to maternity leave.
 The main skills were HTML, CSS
 Now I want to confidently master Javascript and React.
----
+
+*********
 
 #### Skils and Proficiency:
 
@@ -24,12 +26,13 @@ Now I want to confidently master Javascript and React.
 
 > Remove String Spaces
 > JavaScript:
->     function noSpace(x){
->       return x.replaceAll(' ', '');
->     }
+```function noSpace(x){
+       return x.replaceAll(' ', '');
+     }
+```
 
 #### Work Experience
-(CV\#1)[https://github.com/tatsianahlebik/rsschool-cv/blob/gh-pages/cv.md]
+(CV1)[https://github.com/tatsianahlebik/rsschool-cv/blob/gh-pages/cv.md]
 
 #### Education
 
