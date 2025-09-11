@@ -4,11 +4,12 @@
 - Telegram @tatsianahl
 - Discord @tthl_02566
 
-
+***************************
 #### Summary about myself:
 Returning to work as a frontend developer after a break due to maternity leave.
 The main skills were HTML, CSS
-Now I want to confidently master Javascript and React
+Now I want to confidently master Javascript and React.
+***************************
 
 #### Skils and Proficiency:
 
