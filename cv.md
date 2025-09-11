@@ -31,6 +31,7 @@ Now I want to confidently master Javascript and React.
 > }
 
 #### Work Experience
+(CV#1)[https://github.com/tatsianahlebik/rsschool-cv/blob/gh-pages/cv.md]
 
 #### Education
 
@@ -39,17 +40,8 @@ Now I want to confidently master Javascript and React.
 
 #### Languages
 
-###### English
-               B2 level. `Experience in communication with customer and onsite team.`
-
-###### Belarusian
-                    Native
-
-###### Rusian
-                Native
-
-###### Ukrain
-                B1
-
-###### Polish
-                A1
+* Belarusian - Native
+* Rusian - Native
+* English - B2 level. `Experience in communication with customer and onsite team.`
+* Ukrain - B1
+* Polish - A1
