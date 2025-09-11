@@ -29,7 +29,7 @@ Now I want to confidently master Javascript and React.
 >     }
 
 #### Work Experience
-(CV#1)[https://github.com/tatsianahlebik/rsschool-cv/blob/gh-pages/cv.md]
+(CV\#1)[https://github.com/tatsianahlebik/rsschool-cv/blob/gh-pages/cv.md]
 
 #### Education
 
